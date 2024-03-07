@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.myfont{color: blueviolet;
+font-family: "Protest Guerrilla", sans-serif;}
+.mybox{
+    width: 300px;
+    height: 200px;
+    background-color: #A2F5E9;
+    margin-bottom: 10px;
+    padding-top: 7px;
+    border-radius: 10px;
+    padding-right: 7px;
+    padding-left: 7px;
+    padding-bottom: 7px;
+}
+#test{
+	background-color:#B493F0;
+}
+
+#pipi{
+	font-family: "Honk", system-ui;
+	
+}
